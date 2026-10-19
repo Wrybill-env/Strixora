@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 280" width="1100" height="280" role="img" aria-label="Strixora">
+  <title>Strixora</title>
+  <!-- Horizontal lockup: mark + wordmark on a self-contained dark card, so it
+       renders identically on light and dark backgrounds (README, docs, website). -->
+  <rect x="1" y="1" width="1098" height="278" rx="56" fill="#0D0E12" stroke="#232633" stroke-width="2"/>
+
+  <g transform="translate(48,38) scale(0.40)">
+    <g fill="#8B5CF6">
+      <path d="M230 124 L145 172 L166 104 Z"/>
+      <path d="M282 124 L367 172 L346 104 Z"/>
+      <path d="M106 272 A150 150 0 0 1 406 272 C406 344 348 404 256 428 C164 404 106 344 106 272 Z"/>
+    </g>
+    <g fill="#F2F4F8">
+      <circle cx="188" cy="276" r="54"/>
+      <circle cx="324" cy="276" r="54"/>
+    </g>
+    <g fill="#0D0E12">
+      <circle cx="188" cy="276" r="17"/>
+      <circle cx="324" cy="276" r="17"/>
+    </g>
+    <path d="M256 358 L238 316 L274 316 Z" fill="#F2F4F8"/>
+  </g>
+
+  <text x="280" y="170" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="92" font-weight="700" fill="#F2F4F8" letter-spacing="-2">Strixora</text>
+</svg>

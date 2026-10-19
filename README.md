@@ -334,7 +334,7 @@ python -m guardian --help
 
 ```
 C:\Projects\AgentGuardian\
-├── assets/                    # Brand assets (logo.svg, social-preview.svg)
+├── assets/                    # Brand assets (logo.svg, logo-wordmark.svg, social-preview.svg)
 ├── guardian/
 │   ├── __init__.py            # Package exports
 │   ├── __main__.py            # Entry point
